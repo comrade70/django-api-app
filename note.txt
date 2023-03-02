@@ -1,0 +1,8 @@
+admin = admin
+password = admin
+
+manager = manager
+password = 123man123
+
+customer = customer
+password=123cus123
